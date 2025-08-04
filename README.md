@@ -14,7 +14,7 @@ Where:
 
 Input from a file, or from standard input , both ways
 
-Input file ="input.txt"
+Input file ="input.txt" (src/main/resources)
 for valid inputs , diff calculated and output stored in "outut.txt"
 
 Program has a main program to run - "MainApplication.java"
