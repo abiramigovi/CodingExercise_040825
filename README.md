@@ -12,5 +12,12 @@ Where:
 •	the second date is the latest,
 •	and the difference is the number of days.
 
-Input from a file, or from standard input, 
+Input from a file, or from standard input , both ways
+
+Input file ="input.txt"
+for valid inputs , diff calculated and output stored in "outut.txt"
+
+Program has a main program to run - "MainApplication.java"
+
+
 
