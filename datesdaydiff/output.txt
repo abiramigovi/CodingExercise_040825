@@ -1,0 +1,11 @@
+31 03 2018, 25 04 2018, Days Difference  25
+01 01 2019, 01 01 2020, Days Difference  365
+01 01 2019, 12 12 2020, Days Difference  711
+12 12 2020, 01 01 2019, Days Difference  711
+31 12 2019, 31 12 2020, Days Difference  366
+01 01 2020, 31 12 2020, Days Difference  365
+01 01 2019, 31 12 2019, Days Difference  364
+01 01 1900 , 04 01 1900, Days Difference  3
+01 01 1900, 31 12 2020, Days Difference  44195
+01 02 2020, 29 02 2020, Days Difference  28
+11 02 2020, 01 02 2020, Days Difference  10
